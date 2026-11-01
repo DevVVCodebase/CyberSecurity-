@@ -6,11 +6,11 @@ I'm documenting my path into cybersecurity: notes, small tools, lab setups, and 
 
 | Folder | Contents |
 |---|---|
-| [01-fundamentals](./01-fundamentals) | Networking, Linux, and core concept notes |
-| [02-python-tools](./02-python-tools) | Security scripts I write to learn |
-| [03-ctf-writeups](./03-ctf-writeups) | Writeups from beginner rooms and challenges |
-| [04-home-lab](./04-home-lab) | Home lab setup and documentation |
-| [05-weekly-log](./05-weekly-log) | Weekly notes on what I tried and learned |
+| [01-fundamentals](./Fundamentals) | Networking, Linux, and core concept notes |
+| [02-python-tools](./Python-tools) | Security scripts I write to learn |
+| [03-ctf-writeups](./CTF-writeups) | Writeups from beginner rooms and challenges |
+| [04-home-lab](./Home-lab) | Home lab setup and documentation |
+| [05-weekly-log](./Weekly-log) | Weekly notes on what I tried and learned |
 
 ## ✅ Progress
 
